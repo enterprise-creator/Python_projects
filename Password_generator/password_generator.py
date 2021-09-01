@@ -1,5 +1,7 @@
 import random
 pwd_len = int(input('Enter the length of your password: '))
+
+#s is an array that will store all the allowed characters in a password
 s = []
 for i in range (65 , 91):
 
